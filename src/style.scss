@@ -1,0 +1,54 @@
+body {
+    background: #e9ebee;
+}
+
+.headerBody {
+    background-color: #4267b2;
+    border-bottom: 1px;
+    border-bottom-color: #29487d;
+
+    h1.title {
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+}
+
+.post {
+    margin: 30px;
+    width: 700px;
+    padding: 30px;
+    border: solid #ccc 1px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fff;
+    border-radius: 1%;
+}
+
+.linePost {
+    height: 1px;
+    color: #eee;
+    border-bottom: solid 2px;
+}
+.avatar {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.textUser {
+    font-size: 16px;
+    color: #666;
+}
+
+.textHora {
+    font-size: 14px;
+    color: #999;
+    text-align: left;
+}
+
+.textPost {
+    font-size: 16px;
+    color: #333;
+    text-align: justify;
+}
